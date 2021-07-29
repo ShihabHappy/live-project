@@ -1,0 +1,30 @@
+body{
+    font-family: 'Cookie', cursive;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.min-color{
+    color: green;
+}
+.half-width{
+    width: 60%;
+    padding-left: 5%;
+}
+.half-width p{
+    font-size: 130%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(40deg,lightgreen,green);
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
